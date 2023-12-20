@@ -7,3 +7,7 @@ table, th, td{
 	margin: auto;
 	width: 100%;
 }
+.right{
+	text-align: right;
+}
+}
