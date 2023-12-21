@@ -14,3 +14,6 @@ table, th, td{
 #table-2,#table-2>tbody>tr>td{
 	padding: 10px;
 }
+#table-3,#table-3>tbody>tr>td{
+	padding: 10px;
+}
