@@ -2,6 +2,7 @@
 table, th, td{
 	border: 1px solid black;
 	border-collapse: collapse;
+	
 }
 .middle{
 	margin: auto;
@@ -10,5 +11,6 @@ table, th, td{
 .right{
 	text-align: right;
 }
-#t21{
+#table-2,#table-2>tbody>tr>td{
+	padding: 10px;
 }
